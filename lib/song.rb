@@ -1,3 +1,4 @@
+=begin
 class Song
   attr_accessor :name, :artist 
   @@all = []
@@ -27,4 +28,6 @@ class Song
     self
   end 
 end
+=end 
+
     
